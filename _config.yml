@@ -14,15 +14,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: my blog
+title: Professional in Arts
 email: victorscilifen@icloud.com
 description: This is my blog
-baseurl: /blog
+baseurl: 
 url: https://victorscilifen.github.io
 author: Victor
-  name: Victor Scilifen
-  twitter:
-  picture:
+  # name: Victor Scilifen
+  # twitter:
+  # picture:
 twitter_username:
 github_username: victorscilifen
 logo: /assets/images/logo.png
@@ -83,4 +83,5 @@ defaults:
     values:
       layout: post
       read_time: true
-
+gems: [jekyll-feed,jekyll-seo-tag,jekyll-sitemap,jekyll-paginate]
+# jekyll-feed jekyll-seo-tag jekyll-sitemap jekyll-paginate
