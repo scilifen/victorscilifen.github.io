@@ -3,7 +3,7 @@ layout: home
 paginate: true
 ---
 
-# hello，world！
-how are u doing recently?
+## hello，world！
+## how are u doing recently?
 
-## Is very thing fine? Good? Amazing!
+#### Is very thing fine? Good? Amazing!
