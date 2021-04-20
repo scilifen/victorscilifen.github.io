@@ -1,4 +1,4 @@
-<!-- ---
+---
 layout: home
 paginate: true
 ---
@@ -7,4 +7,4 @@ paginate: true
  
  how are u doing recently?
 
- Is very thing fine? Good? Amazing! -->
+ Is very thing fine? Good? Amazing!
