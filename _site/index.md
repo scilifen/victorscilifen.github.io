@@ -5,6 +5,6 @@ paginate: true
 
  hello，world！
  
- how are u doing recently?
+ How are u doing recently?
 
  Is very thing fine? Good? Amazing!
