@@ -11,7 +11,9 @@ introduction: |
     一种储存python数据的好办法，实现python的数据结构简化，把字典，列表更好的整理。
 
 categories: Articles
-tags: Python, Pickle
+tags: 
+    - Python
+    - Pickle
 ---
 
 ```python
