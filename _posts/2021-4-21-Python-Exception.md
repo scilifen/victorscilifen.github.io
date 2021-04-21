@@ -11,7 +11,9 @@ introduction: |
     Python异常处理机制
 
 categories: Articles
-tags: Python, Exception
+tags: 
+    - Python
+    - Exception
 ---
 
 | 异常名字              | 异常情况                                     |
