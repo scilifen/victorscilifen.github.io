@@ -11,7 +11,10 @@ introduction: |
     Python的else还有with
 
 categories: Articles
-tags: Python, While, With
+tags: 
+    - Python
+    - While
+    - With
 ---
 
 ## else在while和for里面
