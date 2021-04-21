@@ -15,7 +15,12 @@ tags:
     - Python
     - Pickle
 ---
+
+
+
 # Pickle是一种储存python数据的好办法，实现python的数据结构简化，把字典，列表更好的整理。
+
+直接上代码，套着用就可
 ```python
 import pickle
 
