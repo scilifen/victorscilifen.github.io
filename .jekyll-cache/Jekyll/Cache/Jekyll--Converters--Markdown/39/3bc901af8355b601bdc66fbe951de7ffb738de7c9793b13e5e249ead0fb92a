@@ -1,0 +1,105 @@
+I"s<h1 id="io">I:O</h1>
+
+<p><strong>今天是2021年4月19日</strong></p>
+
+<p><strong>我需要把我的github pages 弄出来，我有一个theme了，但是非常难看懂，我希望自己能够把这玩意在今天晚上弄出来。</strong></p>
+
+<p><strong>现在是21：22，Let the hacking begin</strong></p>
+
+<blockquote>
+  <p>我没有服用今天晚上的安眠药，所以坚持下来应该很容易，目前来说一点困意也没有。GitHub desktop 的clone效率很低，不知道为什么我的clone经常会得到EOF错误，可能是服务器在外国的缘故，我已经fork下来了一遍，但是情况并没有好转，目前还是需要重试，我去尝试Gitee上面。</p>
+</blockquote>
+
+<p>faster &amp; DONE！</p>
+
+<blockquote>
+  <p>令人担心的情况，我的github pages在VS Code中打开的时候提示需要配置Git，我觉得不必，因为已经有了Github Desktop 。跳过！</p>
+</blockquote>
+
+<blockquote>
+  <p>看来任然需要Git，因为网站建设和后期需要这个东西来实现更流畅的工作，那么没办法了。</p>
+</blockquote>
+
+<p>DONE！</p>
+
+<blockquote>
+  <p>发生了一些神奇的操作，我发现自己写的config.yml并没有对我的网站生效，我很难过，我想我得重新弄一下Jekyll，然后我就看到推荐在macOS下进行操作，好吧，我转移阵地了。</p>
+</blockquote>
+
+<blockquote>
+  <p>我打开了macOS才发现，原来我忘记了把Windows上面的md给拷贝一份了，导致我现在不得不重新再写一个。没事，已经保存了，所以到时候直接复制粘贴。</p>
+</blockquote>
+
+<blockquote>
+  <p>22:18</p>
+
+  <p>首先还是安装Ruby，然后指向需要安装GNUGp，下载一个镜像安装，还行。</p>
+</blockquote>
+
+<p>Done！</p>
+
+<blockquote>
+  <p>获得一份公钥，开始安装RVM。我的终端卡住了？没有任何反应。</p>
+
+  <p>我关闭了VPN有了一些好转，从GitHub上下载了一个安装文件。仍然需要很多时间。还是把VPN开上了，能好点好点吧。Waiting……</p>
+
+  <p>我到了楼上，因为楼下实在忍不住吐槽我的作息了Again，心塞</p>
+
+  <p>RVM looks good，一切都很正常，我不理解这次为什么既没有sudo，也没有要我输入密码，有趣的安装方式。</p>
+
+  <p>卡在了homebrew的更新上，我先试验一下Ruby是否安装正确了。</p>
+
+  <p>啊呀我滴个神，我看错了ruby版本，Mac自带的ruby就已经够用了。</p>
+</blockquote>
+
+<p>Done！</p>
+
+<blockquote>
+  <p>然后是Ruby Gems，好家伙，Mac又自带这玩意，但是需要更新一小步。更吧，感觉网速好慢……</p>
+</blockquote>
+
+<p>Done!</p>
+
+<blockquote>
+  <p>接下来，sudo gem install Jekyll … waiting</p>
+
+  <p>big sur的Jekyll挺特殊的，因为usr/bin被系统保护了，所以得另外安装，还好，已经有人这么做了。</p>
+
+  <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code>gem <span class="nb">install</span> <span class="nt">--user-install</span> bundler jekyll
+</code></pre></div>  </div>
+</blockquote>
+
+<p>Done!</p>
+
+<blockquote>
+  <p>11:04 构建本地网页</p>
+
+  <p>一来就出现了一些问题，是Jekyll的插件在本地没有安装，简单，只需要一个小小的注释。</p>
+
+  <p>看来不只是注释掉那么简单了，我需要在本地安装得到这些插件，然后再上传到GitHub pages上面，所以又是一顿整。</p>
+</blockquote>
+
+<blockquote>
+  <p>23:49 Success!</p>
+
+  <p>完成网络构建，本地访问成功！</p>
+
+  <p>有趣的是，我的Apple watch显示我刚刚摔倒了，天知道我哪里摔倒了。</p>
+
+  <p>接下来的就很简单了，我只需要把这一系列放到我的GitHub pages上去，重新让GitHub知道我的文件就可以了。</p>
+
+  <p>Github Pages 服务器并没有重新运转，我需要想想办法了。</p>
+</blockquote>
+
+<p>Done! 12:09 4/20</p>
+
+<blockquote>
+  <p>非常简单，仅仅需要添加一个gh-pages分支，然后把项目文件上传到这个分支就可以实现了，想不到这么简单，真是棒棒哒。</p>
+
+  <p>那么接下来就是向这个上面上传文档了，我觉得现在就是回Windows拷贝文件的好时机。</p>
+</blockquote>
+
+<p>Done! 9:21 4/21</p>
+
+<p>经过一些尝试和努力，我终于把这个的逻辑搞清楚了，如果你需要学会使用一些奇怪的主题，可以通过邮箱找到我，Victor一定</p>
+:ET

@@ -1,20 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://victorscilifen.github.io/2021/04/20/My-0-Blog-IO.html</loc>
+<loc>https://victorscilifen.github.io/selfblogs/2021/04/20/My-0-Blog-IO.html</loc>
 <lastmod>2021-04-20T00:00:00+08:00</lastmod>
 </url>
 <url>
 <loc>https://victorscilifen.github.io/about.html</loc>
 </url>
 <url>
+<loc>https://victorscilifen.github.io/categories/Articles/</loc>
+</url>
+<url>
 <loc>https://victorscilifen.github.io/categories/</loc>
 </url>
 <url>
-<loc>https://victorscilifen.github.io/tags/markup/</loc>
+<loc>https://victorscilifen.github.io/categories/Ideas/</loc>
 </url>
 <url>
 <loc>https://victorscilifen.github.io/posts/</loc>
+</url>
+<url>
+<loc>https://victorscilifen.github.io/categories/Projects/</loc>
+</url>
+<url>
+<loc>https://victorscilifen.github.io/categories/Selfblogs/</loc>
+</url>
+<url>
+<loc>https://victorscilifen.github.io/tags/start/</loc>
 </url>
 <url>
 <loc>https://victorscilifen.github.io/tags/</loc>
