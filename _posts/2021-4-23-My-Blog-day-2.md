@@ -4,7 +4,7 @@ layout: posts
 alt_title: "My Blog Day 2"
 
 # optional sub-title below the page title
-sub_title: ""
+sub_title: "Breathe，f！"
 
 # optional intro text below titles, Markdown allowed
 introduction: |
