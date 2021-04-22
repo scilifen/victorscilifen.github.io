@@ -1,5 +1,5 @@
 ---
-title: Tag
+title: Tags
 layout: tags
 permalink: /tags/
 entries_layout: grid

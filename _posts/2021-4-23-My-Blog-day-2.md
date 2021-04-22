@@ -11,9 +11,8 @@ introduction: |
     do homework,do preparation,do papers.
 
 categories: Selfblogs
-tags: 
-	- daylog
-	- papers
+tags: daylog
+
 ---
 
 # Oui
